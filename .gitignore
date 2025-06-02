@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env files
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# Editor settings
+.vscode/
+.idea/
+
+# Mac und Windows
+*.swp
+*.swo
+*.bak
+
+# Optional: Versteckte .history Ordner oder Temp-Dateien
+.history/
+*.tmp
+*.log
+
+# Ignore coverage results
+coverage/
+
+# React Native / Expo
+.expo/
+.expo-shared/
